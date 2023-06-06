@@ -294,6 +294,7 @@ public class Tasks1 extends javax.swing.JFrame {
                 newStr = str.replace("5", "65");
             }
             lblOutAnswerT32P3.setText(newStr);
+            System.out.println("");
         }
 
     }
